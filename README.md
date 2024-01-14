@@ -88,5 +88,6 @@ $ rabbitmqadmin get queue='hello'
 
 ```shell script
 $ rabbitmqadmin get queue='hello'
+```
 
 ![решение 3](/files/3-2.png)
