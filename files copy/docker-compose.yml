@@ -1,0 +1,6 @@
+version: '3'
+services:
+  myapp1:
+    image: rabbitmq:3.10.7
+  myapp2:
+    image: rabbitmq:3.10.7
